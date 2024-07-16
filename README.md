@@ -1,6 +1,6 @@
-# ecommerce
+# entertainment
 
-Product List
+Exercise to practise best practices to manipulate create and manipulate elements at DOM.
 
 <p align="center">
 
