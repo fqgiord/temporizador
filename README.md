@@ -10,7 +10,8 @@ Product List
 
 # portfolio
 
-> Product List ecommerce. Tech: HTML, CSS, JavaScript.
+> Timer and music player to relax - Tech: HTML, CSS, JavaScript.
+> A project developed with support from Alura, which is always contributing to the programming community
 
 # technology utilized:
 
